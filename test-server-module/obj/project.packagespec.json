@@ -28,7 +28,7 @@
       "dependencies": {
         "Microsoft.AspNetCore.All": {
           "target": "Package",
-          "version": "[2.0.7, )"
+          "version": "[2.0.9, )"
         },
         "Microsoft.NETCore.App": {
           "suppressParent": "All",
